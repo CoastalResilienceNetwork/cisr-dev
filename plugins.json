@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "repo": "coastal_defense",
+      "name": "coastal_defense"
+    },
+    {
+      "repo": "eca",
+      "name": "eca"
+    }
+  ]
+}
