@@ -1,16 +1,31 @@
 {
     "plugins": [
         {
-            "repo": "eca",
-            "name": "eca"
+            "repo": "explorer",
+            "name": "restoration_explorer"
+        },
+        {   "repo": "explorer",
+            "name": "risk_explorer"
         },
         {
-            "repo": "coastal_defense",
+            "repo": "future_habitat",
+            "name": "future_habitat"
+        },
+        {
+            "repo": "coastal_defense_gulfmex",
             "name": "coastal_defense"
         },
         {
-          "repo": "regional-planning",
-          "name": "regional-planning"
+            "repo": "eca",
+            "name": "eca"
+                },
+    {
+      "repo": "map-tree",
+      "name": "layer_selector"
+    },
+    {
+      "repo": "map-tree",
+      "name": "community_planning"
         }
     ]
 }
