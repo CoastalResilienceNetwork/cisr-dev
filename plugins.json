@@ -5,8 +5,16 @@
             "name": "eca"
         },
         {
+            "repo": "enba",
+            "name": "enba"
+        },
+        {
             "repo": "flood-slr",
             "name": "flood-slr"
+        },
+        {
+            "repo": "living-shorelines-explorer",
+            "name": "living-shorelines-explorer"
         },
         {
             "repo": "coastal_defense",
